@@ -80,3 +80,4 @@ C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Repository\obj\Debug\ne
 C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Repository\obj\Debug\net8.0\Repository.pdb
 C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
 C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Repository\obj\Debug\net8.0\Repository.sourcelink.json

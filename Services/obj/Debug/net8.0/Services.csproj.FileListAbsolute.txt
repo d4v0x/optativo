@@ -88,3 +88,4 @@ C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Services\obj\Debug\net8
 C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\mdperez\Pictures\ExamenParcial3\examen_parcial3\Services\obj\Debug\net8.0\Services.sourcelink.json
